@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+For I.O tech
+
+I.kit was good goods for kids
